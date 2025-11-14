@@ -9,3 +9,5 @@ This is awesome project.
 [Author](https://github.com/dragonchel)
 
 ## Some new section here
+
+## Conflict
